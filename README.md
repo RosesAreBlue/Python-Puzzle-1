@@ -1,6 +1,6 @@
 # Python-Puzzle-1
 This was from a challenge somebody set me a while ago. I was quite proud with the results.
-Pick a low-level triangle like 3-5. The innermost width is how many characters are at the base of the triangle in the centre.
+Pick a low-level triangle like 3-5 where this represents how many times three larger, outer triangles encase inner triangles. The innermost width is how many characters are at the base of the smallest triangle in the centre.
 
 <pre>
 ooooooooooooooooooooooooooooooooooooooooooooooo*ooooooooooooooooooooooooooooooooooooooooooooooo
